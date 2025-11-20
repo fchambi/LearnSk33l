@@ -9,12 +9,20 @@ Built with Scaffold-ETH 2, Foundry, Wagmi, Viem and Next.js.**
 
 - 🌐 **Website / Demo:** https://<your-app>.xyz  
 - 🧾 **Documentation:** https://<your-docs>.xyz  
-- 🔍 **Smart Contracts (Scroll):**  
-  - Reputation.sol — `0x...` (Verified ✔)  
-  - EducatorSubscription.sol — `0x...` (Verified ✔)  
-  - CourseRegistry.sol — `0x...` (Verified ✔)  
-  - LearnToEarn.sol — `0x...` (Verified ✔)  
 
+### 🧩 Smart Contracts on Scroll (All Verified ✔)
+
+- **Reputation.sol** — `0x1aa7d8045D18e3ed70103f32294a14E839D7Ce01`  
+  https://repo.sourcify.dev/534351/0x1aa7d8045D18e3ed70103f32294a14E839D7Ce01
+
+- **EducatorSubscription.sol** — `0x3E42fB1C4D04916e86b741049df219EB3D71ca82`  
+  https://repo.sourcify.dev/534351/0x3E42fB1C4D04916e86b741049df219EB3D71ca82
+
+- **CourseRegistry.sol** — `0xf7596AEAc4515350B100048Edc4F6FeB02F604Df`  
+  https://repo.sourcify.dev/534351/0xf7596AEAc4515350B100048Edc4F6FeB02F604Df
+
+- **LearnToEarn.sol** — `0x75aaAad403b206db02B8bD0ea8E357D238Ae48f3`  
+  https://repo.sourcify.dev/534351/0x75aaAad403b206db02B8bD0ea8E357D238Ae48f3
 ---
 
 ## 🚀 What Is Sk33L?
