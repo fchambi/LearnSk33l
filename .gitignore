@@ -21,3 +21,18 @@ node_modules
 
 # cli
 dist
+
+# Foundry verification files (generated, not needed in repo)
+*_flat.sol
+verify-all.sh
+VERIFICAR_MANUAL_UI.md
+COMO_VERIFICAR_CONTRATOS.md
+
+# Deployment documentation (specific to local deployments)
+DESPLIEGUE_EXITOSO.md
+PASO_A_PASO_DEPLOY.md
+
+# Private keys and sensitive data
+packages/foundry/.env
+.env
+*.key
