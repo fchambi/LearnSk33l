@@ -7,7 +7,7 @@ Built with Scaffold-ETH 2, Foundry, Wagmi, Viem and Next.js.**
 
 ## 🔗 Project Links
 
-- 🌐 **Website / Demo:** https://<your-app>.xyz  
+- 🌐 **Website / Demo:** https://v0-skool-3.vercel.app/ 
 - 🧾 **Documentation:** https://<your-docs>.xyz  
 
 ### 🧩 Smart Contracts on Scroll (All Verified ✔)
