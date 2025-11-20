@@ -80,10 +80,35 @@ The goal is to build a transparent, decentralized and merit–driven learning ec
 
 ---
 
-## 🧪 Testing
+## 🎨 Frontend Features
 
-The project includes testing for:
-- Subscription flow  
-- Course creation and management  
-- Reputation scoring  
-- Full Learn-to-Earn lifecycle  
+### Educator Dashboard (`/educator`)
+- Set monthly subscription price
+- Create courses with IPFS metadata URIs
+- Activate/deactivate courses
+- View educator reputation in real-time
+
+### Learner Dashboard (`/learner`)
+- Browse available educators and their prices
+- Subscribe with ETH payment (1-12 months)
+- View courses by educator
+- Complete courses with score validation (minimum 70)
+- View learner reputation in real-time
+
+## 📚 Project Structure
+
+```
+learnskool3/
+├── packages/
+│   ├── foundry/           # Smart contracts
+│   │   ├── contracts/     # Solidity contracts
+│   │   ├── script/        # Deployment scripts
+│   │   ├── test/          # Contract tests
+│   │   └── seed-data.sh   # Script to seed test data
+│   └── nextjs/            # Frontend application
+│       ├── app/           # Next.js pages
+│       │   ├── educator/  # Educator dashboard
+│       │   └── learner/   # Learner dashboard
+│       └── components/    # React components
+└── setup-demo.sh          # Automated setup script
+```

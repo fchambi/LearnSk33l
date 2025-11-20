@@ -71,7 +71,7 @@ contract LearnToEarn {
      */
     function completeCourse(uint256 courseId, uint256 score) external {
         // Get course details
-        (uint256 id, address educator, , bool active) = courseRegistry.getCourse(courseId);
+        (, address educator, , bool active) = courseRegistry.getCourse(courseId);
         
         // Validate course is active
         if (!active) revert CourseNotActive();

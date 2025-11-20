@@ -15,6 +15,7 @@
     "chain": "yarn foundry:chain",
     "compile": "yarn foundry:compile",
     "deploy": "yarn foundry:deploy",
+    "seed": "yarn workspace @se-2/foundry seed",
     "flatten": "yarn foundry:flatten",
     "fork": "yarn foundry:fork",
     "format": "yarn next:format && yarn foundry:format",
